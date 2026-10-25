@@ -1,0 +1,31 @@
+Invoice ID,Customer,Invoice Date,Due Date,Invoice Amount,Amount Collected,Business Segment,Account Owner,Outstanding Amount,Days Overdue,Ageing Bucket,Collection Status
+INV-1001,Acme Technologies,07/02/2026,08/01/2026,450000,450000,Enterprise,Rahul,0,282,Paid,Paid
+INV-1002,Beta Retail,07/08/2026,08/07/2026,180000,180000,Mid-Market,Priya,0,101,Paid,Paid
+INV-1003,Cobalt Systems,15/07/2026,14/08/2026,620000,300000,Enterprise,Rahul,320000,64,61-90 Days,Seriously Overdue
+INV-1004,Delta Logistics,21/07/2026,20/08/2026,275000,100000,Mid-Market,Ananya,175000,58,31-60 Days,Seriously Overdue
+INV-1005,Evergreen Foods,08/01/2026,31/08/2026,95000,95000,SMB,Priya,0,47,Paid,Paid
+INV-1006,Falcon Networks,08/04/2026,09/03/2026,780000,250000,Enterprise,Rahul,530000,222,90+ Days,Seriously Overdue
+INV-1007,Granite Services,08/10/2026,09/09/2026,210000,0,Mid-Market,Ananya,210000,38,31-60 Days,Seriously Overdue
+INV-1008,Helio Manufacturing,14/08/2026,13/09/2026,340000,340000,Enterprise,Priya,0,34,Paid,Paid
+INV-1009,Indigo Media,20/08/2026,19/09/2026,125000,50000,SMB,Ananya,75000,28,1-30 Days,Overdue
+INV-1010,Juniper Health,25/08/2026,24/09/2026,510000,200000,Enterprise,Rahul,310000,23,1-30 Days,Overdue
+INV-1011,Keystone Travel,09/01/2026,10/01/2026,160000,160000,Mid-Market,Priya,0,280,Paid,Paid
+INV-1012,Lumen Energy,09/05/2026,10/05/2026,890000,400000,Enterprise,Rahul,490000,160,90+ Days,Seriously Overdue
+INV-1013,Meridian Apparel,09/09/2026,10/09/2026,145000,0,SMB,Ananya,145000,37,31-60 Days,Seriously Overdue
+INV-1014,Northstar Auto,09/12/2026,10/12/2026,320000,100000,Mid-Market,Priya,220000,0,Not Due,Not Due
+INV-1015,Orchid Telecom,16/09/2026,16/10/2026,670000,0,Enterprise,Rahul,670000,1,1-30 Days,Overdue
+INV-1016,Pioneer Labs,20/09/2026,20/10/2026,235000,75000,Mid-Market,Ananya,160000,0,Not Due,Not Due
+INV-1017,Quartz Consulting,23/09/2026,23/10/2026,110000,110000,SMB,Priya,0,0,Paid,Paid
+INV-1018,Redwood Security,26/09/2026,26/10/2026,560000,180000,Enterprise,Rahul,380000,0,Not Due,Not Due
+INV-1019,Summit Packaging,29/09/2026,29/10/2026,195000,0,Mid-Market,Ananya,195000,0,Not Due,Not Due
+INV-1020,Titan Mobility,10/02/2026,11/01/2026,420000,100000,Enterprise,Priya,320000,279,90+ Days,Seriously Overdue
+INV-1021,Umbra Design,10/04/2026,11/03/2026,85000,0,SMB,Ananya,85000,220,90+ Days,Seriously Overdue
+INV-1022,Vertex Software,10/06/2026,11/05/2026,720000,350000,Enterprise,Rahul,370000,159,90+ Days,Seriously Overdue
+INV-1023,Willow Pharma,10/08/2026,11/07/2026,285000,125000,Mid-Market,Priya,160000,98,90+ Days,Seriously Overdue
+INV-1024,Xenon Components,10/10/2026,11/09/2026,155000,0,SMB,Ananya,155000,36,31-60 Days,Seriously Overdue
+INV-1025,Yellowstone Media,10/12/2026,11/11/2026,395000,200000,Mid-Market,Priya,195000,0,Not Due,Not Due
+INV-1026,Zenith Cloud,14/10/2026,13/11/2026,950000,500000,Enterprise,Rahul,450000,0,Not Due,Not Due
+INV-1027,Atlas Facilities,15/10/2026,14/11/2026,240000,60000,Mid-Market,Ananya,180000,0,Not Due,Not Due
+INV-1028,Bluebird Commerce,16/10/2026,15/11/2026,130000,0,SMB,Priya,130000,0,Not Due,Not Due
+INV-1029,Crescent Analytics,16/10/2026,15/11/2026,610000,200000,Enterprise,Rahul,410000,0,Not Due,Not Due
+INV-1030,Driftwood Interiors,17/10/2026,16/11/2026,175000,0,SMB,Ananya,175000,0,Not Due,Not Due
