@@ -1,5 +1,9 @@
 # Revenue & Collections Intelligence Dashboard
 
+## Dashboard Preview
+
+![Revenue & Collections Intelligence Dashboard](dashboard-overview.png)
+
 ## Overview
 
 A revenue operations analytics project built in Google Sheets to monitor accounts receivable (AR), collection performance, overdue invoices, and ageing risk.
