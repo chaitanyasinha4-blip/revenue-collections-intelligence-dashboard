@@ -1,9 +1,5 @@
 # Revenue & Collections Intelligence Dashboard
 
-## Dashboard Preview
-
-![Revenue & Collections Intelligence Dashboard](dashboard-overview.png)
-
 ## Overview
 
 A revenue operations analytics project built in Google Sheets to monitor accounts receivable (AR), collection performance, overdue invoices, and ageing risk.
@@ -87,6 +83,11 @@ The ageing analysis highlights the 90+ day bucket as an area requiring attention
 
 - `revenue-collections-dashboard.xlsx` — downloadable workbook containing the dashboard and analysis.
 - `dashboard-overview.png` — dashboard preview.
+- `revenue_collections_intelligence_dataset.csv` — fictional invoice-level source data used for the analysis.
+
+## Dashboard Preview
+
+![Revenue & Collections Intelligence Dashboard](dashboard-overview.png)
 
 ## Disclaimer
 
